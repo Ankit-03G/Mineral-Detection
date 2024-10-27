@@ -23,3 +23,7 @@ Future Enhancements:
 Integrate a machine learning model for automated rock type classification based on color and edge features.
 Enhance user interface for better user experience.
 Include more robust error handling and user feedback mechanisms.
+
+
+
+*For better experience use the app.py*
