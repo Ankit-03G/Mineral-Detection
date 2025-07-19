@@ -25,7 +25,7 @@ This app helps you:
 
 ### 🖼️ Image Upload
 - Drag and drop or select rock/ore images directly from your device.
-- Supports common image formats (JPG, PNG, etc.).
+- Supports common image  formats (JPG, PNG, etc.).
 
 ### 🎨 Color Detection
 - Uses advanced clustering techniques (such as **K-Means**) to identify the most prominent colors in your sample.
