@@ -96,7 +96,7 @@ streamlit run app.py
 1. **Select or drag a sample rock photo into the app.**
 2. **Review the detected color clusters**—see which minerals dominate your sample.
 3. **Check the edge visualization**—observe cracks, veins, or other geological features.
-4. **Download a PDF report**—includes all charts, explanations, and your original image.
+4. **Download a PDF  report**—includes all charts, explanations, and your original image.
 
 ---
 
